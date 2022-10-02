@@ -1,0 +1,1 @@
+{% for breadcrumb in breadcrumbs %}{% if forloop.first == false %}&nbsp;>&nbsp;{% endif %}<a href="{{ breadcrumb.link }}">{{ breadcrumb.text }}</a>{% endfor %}
