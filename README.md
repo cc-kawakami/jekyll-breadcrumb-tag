@@ -9,7 +9,7 @@ Add this line to your application's Gemfile:
 ```ruby
 
 group :jekyll_plugins do
-  gem "jekyll-breadcrumbs-tag", github: "colorfulcompany/jekyll-breadcrumbs-tag"
+  gem "jekyll-breadcrumbs-tag", github: "cc-kawakami/jekyll-breadcrumbs-tag"
 end
 ```
 
